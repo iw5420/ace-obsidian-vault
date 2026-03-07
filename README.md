@@ -11,7 +11,7 @@
 * **Distributed Systems & Infrastructure:** Data consistency patterns, distributed transactions, and consensus logic. Performance optimization for $RDBMS$, $Redis$, $Kafka$, and $ElasticSearch$.
 * **Frameworks & Cloud:** Advanced $Spring Boot/Cloud$ implementation ($RBAC/JWT$). Hybrid cloud deployment ($GCP/hicloud$), $Docker$ orchestration, and $CI/CD$ automation.
 * **Engineering Rigor:** Applying $SOLID$ principles and Design Patterns. Structured methodology for performance profiling, bottleneck identification, and systematic debugging.
-* **Algorithm Patterns:** Maintaining analytical sharpness through categorized data structure and algorithmic logic exercises.
+* **Algorithm Patterns:** Maintaining analytical sharpness through categorized data structures and core pattern practice. Emphasizes the trade-offs in resource consumption driven by underlying mechanisms to master the most appropriate and efficient coding implementations.
 
 ### 🛠️ Tooling
 * **Platform:** Obsidian (Markdown-based)
