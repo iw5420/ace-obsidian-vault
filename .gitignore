@@ -1,0 +1,10 @@
+# Obsidian 內部暫存（最重要，避免多裝置衝突）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# 系統檔案
+.DS_Store
+
+# 如果你有用 Obsidian Git 外掛，排除其自動產生的日誌
+.obsidian/plugins/obsidian-git/
