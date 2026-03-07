@@ -11,14 +11,10 @@
             "id": "ade22cb1ccf0ca6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "歡迎.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "歡迎"
+              "title": "新分頁"
             }
           }
         ]
@@ -198,6 +194,8 @@
   },
   "active": "8e87bd5fc7e6c22d",
   "lastOpenFiles": [
+    "README.md",
+    "Readme.md",
     "歡迎.md"
   ]
 }
