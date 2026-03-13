@@ -7,11 +7,12 @@
 * **Just-in-Time (JIT) Adaptation:** A high-density repository optimized for rapid knowledge synthesis, designed for high-concurrency technical decision-making and senior-level interviews.
 
 ### 🏛️ Knowledge Domains
+* **Algorithm Patterns:** Maintaining analytical sharpness through categorized data structures and core pattern practice. Emphasizes the trade-offs in resource consumption driven by underlying mechanisms to master the most appropriate and efficient coding implementations.
 * **Java Performance & Concurrency:** $JVM$ tuning ($G1/ZGC$), Garbage Collection strategies, and $JMM$ deep dives. Thread-safe design, memory barriers, and lock-free programming for high-throughput systems.
 * **Distributed Systems & Infrastructure:** Data consistency patterns, distributed transactions, and consensus logic. Performance optimization for $RDBMS$, $Redis$, $Kafka$, and $ElasticSearch$.
 * **Frameworks & Cloud:** Advanced $Spring Boot/Cloud$ implementation ($RBAC/JWT$). Hybrid cloud deployment ($GCP/hicloud$), $Docker$ orchestration, and $CI/CD$ automation.
 * **Engineering Rigor:** Applying $SOLID$ principles and Design Patterns. Structured methodology for performance profiling, bottleneck identification, and systematic debugging.
-* **Algorithm Patterns:** Maintaining analytical sharpness through categorized data structures and core pattern practice. Emphasizes the trade-offs in resource consumption driven by underlying mechanisms to master the most appropriate and efficient coding implementations.
+
 
 ### 🛠️ Tooling
 * **Platform:** Obsidian (Markdown-based)
@@ -28,11 +29,12 @@
 * **現學現用 (JIT)：** 高密度的知識綜合庫，專為高併發技術決策與資深開發職位面試設計。
 
 ### 🏛️ 知識領域
+* **演算法模式：** 透過分類的資料結構與核心模式練習，保持分析問題的敏銳度。強調底層運作情況所帶來的資源花費取捨（Resource Trade-offs），用以熟悉最合適且有效率的程式實作方式。
 * **Java 效能與高併發：** $JVM$ 調優 ($G1/ZGC$)、垃圾回收策略與 $JMM$ 深度解析。執行緒安全設計、記憶體屏障與高吞吐量系統的無鎖編程。
 * **分散式系統與基礎設施：** 資料一致性模型、分散式事務與共識邏輯。$RDBMS$、$Redis$、$Kafka$ 與 $ElasticSearch$ 的效能優化。
 * **開發框架與雲端：** 進階 $Spring Boot/Cloud$ 實作，專注於 $RBAC$ 與安全 $JWT$ 架構。混合雲部署策略 ($GCP/hicloud$)、容器編排與 $CI/CD$ 自動化。
 * **工程嚴謹性與方法論：** 運用 $SOLID$ 原則與設計模式構建企業級軟體。系統化效能剖析 ($Profiling$)、瓶頸識別與疑難雜症排查流程。
-* **演算法模式：** 透過分類的資料結構與核心模式練習，保持分析問題的敏銳度。強調底層運作情況所帶來的資源花費取捨（Resource Trade-offs），用以熟悉最合適且有效率的程式實作方式。
+
 
 ### 🛠️ 工具規範
 * **平台：** Obsidian (基於 Markdown)
