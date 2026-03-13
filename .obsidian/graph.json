@@ -1,11 +1,17 @@
 {
+<<<<<<< HEAD
   "collapse-filter": false,
   "search": "file:\"Algorithm MOC\"",
+=======
+  "collapse-filter": true,
+  "search": "",
+>>>>>>> fb2f8f41d26aca8cf114ac5126a7b686da0adbe0
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
+<<<<<<< HEAD
   "colorGroups": [
     {
       "query": "",
@@ -15,6 +21,9 @@
       }
     }
   ],
+=======
+  "colorGroups": [],
+>>>>>>> fb2f8f41d26aca8cf114ac5126a7b686da0adbe0
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
