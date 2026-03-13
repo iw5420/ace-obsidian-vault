@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04_Data_Structures/HashMap.md",
+                "file": "01_Algorithms & DataStructures/04_Data_Structures/_Data_Structures_Index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "HashMap 的關聯圖"
+              "title": "_Data_Structures_Index 的關聯圖"
             }
           },
           {
@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Data_Structures/HashMap.md",
+                "file": "01_Algorithms & DataStructures/04_Data_Structures/_Data_Structures_Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HashMap"
+              "title": "_Data_Structures_Index"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04_Data_Structures/HashMap.md",
+                "file": "01_Algorithms & DataStructures/04_Data_Structures/_Data_Structures_Index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "HashMap 的關聯圖"
+              "title": "_Data_Structures_Index 的關聯圖"
             }
           }
         ]
@@ -268,22 +268,23 @@
   },
   "active": "7ed044130b726117",
   "lastOpenFiles": [
-    "README.md",
-    "04_Data_Structures/_Data_Structures_Index.md",
+    "01_Algorithms & DataStructures/04_Data_Structures/HashMap.md",
     "Array.md",
-    "04_Data_Structures/HashMap.md",
-    "01_Algorithms/Algorithm MOC.md",
-    "02_Patterns/_Patterns_Index.md",
+    "01_Algorithms & DataStructures",
+    "README.md",
+    "01_Algorithms & DataStructures/04_Data_Structures/_Data_Structures_Index.md",
+    "01_Algorithms & DataStructures/01_Algorithms/Algorithm MOC.md",
+    "01_Algorithms & DataStructures/02_Patterns/_Patterns_Index.md",
     "00_Templates/_Templates_Index.md",
-    "03_LeetCode_Notes/_LeetCode_Notes_Index.md",
+    "01_Algorithms & DataStructures/03_LeetCode_Notes/_LeetCode_Notes_Index.md",
     "00_Templates.md",
     "02_Patterns.md",
     "LC 1. Two Sum.md",
     "Two Pointers.md",
     "00_Templates",
-    "04_Data_Structures",
-    "03_LeetCode_Notes",
-    "02_Patterns",
-    "01_Algorithms"
+    "01_Algorithms & DataStructures/04_Data_Structures",
+    "01_Algorithms & DataStructures/03_LeetCode_Notes",
+    "01_Algorithms & DataStructures/02_Patterns",
+    "01_Algorithms & DataStructures/01_Algorithms"
   ]
 }
