@@ -6,7 +6,6 @@
       {
         "id": "48e57c0e62c94716",
         "type": "tabs",
-        "dimension": 42.158671586715876,
         "children": [
           {
             "id": "d3d87382542d5040",
@@ -14,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01_Algorithms & DataStructures/04_Data_Structures/_Data_Structures_Index.md",
+                "file": "01_Algorithms & DataStructures/04_Data_Structures/HashMap.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -42,69 +41,21 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "_Data_Structures_Index 的關聯圖"
+              "title": "HashMap 的關聯圖"
             }
           },
           {
-            "id": "7ed044130b726117",
+            "id": "4d3bd3e7eaad0660",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Algorithms & DataStructures/04_Data_Structures/_Data_Structures_Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_Data_Structures_Index"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "8d562209168ba1e5",
-        "type": "tabs",
-        "dimension": 57.841328413284124,
-        "children": [
-          {
-            "id": "7a87db0dde3a7970",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "01_Algorithms & DataStructures/04_Data_Structures/_Data_Structures_Index.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "_Data_Structures_Index 的關聯圖"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -266,17 +217,26 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "7ed044130b726117",
+  "active": "4d3bd3e7eaad0660",
   "lastOpenFiles": [
+    "01_Algorithms & DataStructures/03_LeetCode_Notes/problems_201_300/q217_contains_duplicate.md",
+    "01_Algorithms & DataStructures/03_LeetCode_Notes/problems_001_100/q1_two_sum.md",
+    "01_Algorithms & DataStructures/03_LeetCode_Notes/problems_201_300",
+    "01_Algorithms & DataStructures/03_LeetCode_Notes/problems_001_100/q21_merge_two_sorted_lists.md",
     "01_Algorithms & DataStructures/04_Data_Structures/HashMap.md",
+    "01_Algorithms & DataStructures/03_LeetCode_Notes/problems_701_800/q706_design_hashmap.md",
+    "01_Algorithms & DataStructures/03_LeetCode_Notes/problems_001_100",
+    "01_Algorithms & DataStructures/04_Data_Structures/Hashmap dead detail.md",
+    "00_Templates/_Templates_Index.md",
+    "01_Algorithms & DataStructures/01_Algorithms/Algorithm MOC.md",
+    "Linked List.md",
+    "01_Algorithms & DataStructures/03_LeetCode_Notes/_LeetCode_Notes_Index.md",
+    "01_Algorithms & DataStructures/03_LeetCode_Notes/problems_701_800",
+    "01_Algorithms & DataStructures/04_Data_Structures/_Data_Structures_Index.md",
     "Array.md",
     "01_Algorithms & DataStructures",
     "README.md",
-    "01_Algorithms & DataStructures/04_Data_Structures/_Data_Structures_Index.md",
-    "01_Algorithms & DataStructures/01_Algorithms/Algorithm MOC.md",
     "01_Algorithms & DataStructures/02_Patterns/_Patterns_Index.md",
-    "00_Templates/_Templates_Index.md",
-    "01_Algorithms & DataStructures/03_LeetCode_Notes/_LeetCode_Notes_Index.md",
     "00_Templates.md",
     "02_Patterns.md",
     "LC 1. Two Sum.md",
