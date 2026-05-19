@@ -48,10 +48,14 @@
             "id": "4d3bd3e7eaad0660",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -219,6 +223,9 @@
   },
   "active": "4d3bd3e7eaad0660",
   "lastOpenFiles": [
+    "07_AI_Platform_&_MLOps/_MLOps_Index.md.md",
+    "06_LLM_Lifecycle_&_Customization/_LLM_Customization_Index.md.md",
+    "06_LLM_Lifecycle_&_Customization",
     "01_Algorithms & DataStructures/03_LeetCode_Notes/problems_201_300/q217_contains_duplicate.md",
     "01_Algorithms & DataStructures/03_LeetCode_Notes/problems_001_100/q1_two_sum.md",
     "01_Algorithms & DataStructures/03_LeetCode_Notes/problems_201_300",
