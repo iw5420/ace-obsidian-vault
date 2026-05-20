@@ -2,7 +2,7 @@
 > 專注於運用後端架構嚴謹紀律框住 AI 系統的質量、觀測與軟體工程實踐（Time Budget: 32 Hours）
 
 ## 🗺️ 核心子主題
-* **[07.1_dynamic_config_&_safety](./07.1_dynamic_config_&_safety.md)** (6h)
+* **[07.1_dynamic_config_&_safety](07.1_dynamic_config_&_safety.md)** (6h)
     * 基於 Hydra 實作階層式 YAML 組態設計，引入 Pydantic v2 進行超參數強型態邊界校驗，並建置 M4 Pro Max 統一記憶體（Unified Memory）環境之 Runtime 守門員偵測機制。
 * **[07.2_tracking_&_observability](./07.2_tracking_&_observability.md)** (6h)
     * 實作原生自訂訓練迴路與 WandB / MLflow 的非同步（Asynchronous）資料對接，建置 Unified Memory 分配率、記憶體頻寬與 Loss 實時觀測儀表板。
