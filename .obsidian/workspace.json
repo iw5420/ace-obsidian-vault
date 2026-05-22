@@ -50,12 +50,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_mlops_sprint_logs/_sprint_logs_index.md.md",
+                "file": "07_AI_platform_&_mlops/07.1_dynamic_config_&_safety.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07.1_dynamic_config_&_safety"
+            }
+          },
+          {
+            "id": "2d9c9028975f080c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_llm_lifecycle_&_customization/06.1_data_curation_&_packing.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_sprint_logs_index.md"
+              "title": "06.1_data_curation_&_packing"
+            }
+          },
+          {
+            "id": "1f604b7add26b2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08_mlops_sprint_logs/08.1_mod1_config_&_safety.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08.1_mod1_config_&_safety"
             }
           },
           {
@@ -78,16 +106,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_algorithms & dataStructures/01_algorithms/Algorithm MOC.md",
+                "file": "08_mlops_sprint_logs/08.1_mod1_config_&_safety_requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithm MOC"
+              "title": "08.1_mod1_config_&_safety_requirements"
+            }
+          },
+          {
+            "id": "b68c3605d27ec6ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08_mlops_sprint_logs/08.1.5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08.1.5"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,19 +291,27 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "a9b6cb6763b7779f",
+  "active": "2d9c9028975f080c",
   "lastOpenFiles": [
-    "07_AI_platform_&_mlops/07.1_dynamic_config_&_safety.md",
-    "07_AI_platform_&_mlops/_mlops_index.md.md",
     "06_llm_lifecycle_&_customization/_llm_customization_index.md.md",
+    "07_AI_platform_&_mlops/_mlops_index.md.md",
+    "06_llm_lifecycle_&_customization/06.1_data_curation_&_packing.md",
+    "07_AI_platform_&_mlops/07.4_automated_e2e_validation.md",
+    "07_AI_platform_&_mlops/07.1_dynamic_config_&_safety.md",
+    "08_mlops_sprint_logs/08.1_mod1_config_&_safety_requirements.md",
     "06_llm_lifecycle_&_customization/_lifecycle_plan.md.md",
     "08_mlops_sprint_logs/08.1_mod1_config_&_safety.md",
+    "08_mlops_sprint_logs/08.2_mod2_curation_pipeline.md",
+    "08_mlops_sprint_logs/08.1.5.md",
+    "08_mlops_sprint_logs/MinHash&LSH.md",
     "08_mlops_sprint_logs/_sprint_logs_index.md.md",
-    "08_mlops_sprint_logs/08.1_mod1_config_&_safety_requirements.md",
-    "未命名.md",
+    "未命名.canvas",
+    "2026-05-21.md",
+    "未命名.base",
+    "08_mlops_sprint_logs/未命名",
+    "01_algorithms & dataStructures/01_algorithms/Algorithm MOC.md",
     "08_mlops_sprint_logs",
     "01_algorithms & dataStructures/03_leetcode_notes/problems_001_100/q1_two_sum.md",
-    "01_algorithms & dataStructures/01_algorithms/Algorithm MOC.md",
     "00_templates/_Templates_Index.md",
     "README.md",
     "06_llm_lifecycle_&_customization",
@@ -278,14 +328,7 @@
     "01_algorithms & dataStructures/04_Data_Structures/_Data_Structures_Index.md",
     "Array.md",
     "01_algorithms & dataStructures",
-    "01_algorithms & dataStructures/02_patterns/_Patterns_Index.md",
-    "00_Templates.md",
-    "02_Patterns.md",
-    "LC 1. Two Sum.md",
-    "Two Pointers.md",
     "00_templates",
-    "01_algorithms & dataStructures/04_Data_Structures",
-    "01_algorithms & dataStructures/03_leetcode_notes",
-    "01_algorithms & dataStructures/02_patterns"
+    "01_algorithms & dataStructures/04_Data_Structures"
   ]
 }

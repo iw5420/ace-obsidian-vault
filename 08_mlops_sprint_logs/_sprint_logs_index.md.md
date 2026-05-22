@@ -12,7 +12,7 @@
 ## 🗺️ 模組實戰日誌目錄
 * **[08.1_mod1_config_&_safety](./08.1_mod1_config_&_safety.md)** (6h)
     * **實戰聚焦：** Hydra 階層式組態覆蓋測試、Pydantic v2 BaseSettings 強型態攔截驗證，以及動態 Thread 偵測調配邏輯之實作紀錄。
-* **[08.2_mod2_curation_pipeline](./08.2_mod2_curation_pipeline.md)** (16h)
+* **[08.2_mod2_curation_pipeline](08.2_mod2_curation_pipeline.md)** (16h)
     * **實戰聚焦：** Python `multiprocessing` 多核心吞吐瓶頸排除、手寫 MinHash + LSH 在百萬級文本的去重效能（Profiling）報告，以及 pytest 邊界條件單元測試通過紀錄。
 * **[08.3_mod3_async_eval_engine](./08.3_mod3_async_eval_engine.md)** (12h)
     * **實戰聚焦：** `asyncio` 併發呼叫外部 API 的速率限制（Rate Limit）踩坑與排除、LLM-as-a-Judge 盲測 Rubric 提示詞優化歷程，以及 ROUGE/BLEU 差異報告自動導出實作。
