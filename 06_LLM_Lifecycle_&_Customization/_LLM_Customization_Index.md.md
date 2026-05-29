@@ -2,7 +2,7 @@
 > 專注於大模型領域適應與客製化的底層核心工程（Time Budget: 52 Hours）
 
 ## 🗺️ 核心子主題
-* **[_lifecycle_plan.md](_lifecycle_plan.md.md)** (84h 全生命週期衝刺對照表)
+* **[_lifecycle_plan](_lifecycle_plan.md)** (84h 全生命週期衝刺對照表)
     * 錨定 7 個開發模組之執行時間線與空間架構線的防走歪清單。
 * **[06.1_data_curation_&_packing](./06.1_data_curation_&_packing.md)** (16h)
     * 利用 `multiprocessing` 進行多進程並行文字清理、手寫 MinHash + LSH 演算法實作海量去重，以及工業級 Continued Pre-Training (CPT) Packing（文本打包）防算力浪費機制。
