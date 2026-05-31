@@ -10,3 +10,6 @@
     * 捨棄 High-level 封裝，手寫 Low-level PyTorch Custom Training Loop，實作 Gradient Accumulation（梯度累積）控制，並利用 PyTorch Profiler 進行 Apple Silicon MPS 的 Execution Trace 記憶體與算力瓶頸分析。
 * **[06.3_alignment_&_dpo_loss](./06.3_alignment_&_dpo_loss.md)** (10h)
     * 建立 DPO 偏好數據校驗管道、純手寫 $L_{DPO}$ 損失函數，並進行矩陣對數機率（Log Likelihood）公式之數學推導與 LaTeX 註解。
+* **[06.4_mod6_cpt_packing_explanation](./06.4_mod6_cpt_packing_explanation.md)** (10h)
+    * 增量預訓練（CPT）大文本吞吐之核心概念導讀。提供工業級 Packing 打包演算法與 Streaming 流式加載傳送帶的白話轉譯、資料生命週期全景流向圖與關鍵範式對比表。
+    
